@@ -1,18 +1,25 @@
 ### Hej 👋 mää on [Aurelio!]()
 
-Olen Ohjelmistokehittäjä, mobillikehittäjä ja teknologian harrastaja. Pidän myös uusien asioiden oppimisesta ja ongelmien ratkaisemisesta ✌️
-
-
+<br />
+<br />
 <img align="right" alt="GIF" src="https://github.com/paczek07/paczek07/blob/main/assets/giphy.gif" />
+
+Olen ohjelmistokehittäjä, mobillikehittäjä, Fullstackkehittäjä ja teknologian harrastaja. Pidän myös uusien asioiden oppimisesta ja ongelmien ratkaisemisesta ✌️
 
 
 **Enemmän minusta:**
 
-- 👨‍🎓 Olen Tietoteknikka opiskelja, pian valmistun.
+- 👨‍🎓 Olen Tietotekniikan opiskelija, pian valmistun.
 - 📖 Opin .NETiä ja TypeScriptiä.
 - 🔎 Etsin opinnäytetyön aihetta.
 - ⚡ voit lukea lisää uudesta blogistani (https://medium.com)
 - 📝 Minun sivuni ()
+<br />
+
+
+**Työn alla:**
+- Project/Bug Tracker system
+- Habit tracker
 <br />
 
 **Languages and Tools:**
