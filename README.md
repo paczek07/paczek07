@@ -12,10 +12,9 @@ Olen ohjelmistokehittäjä, mobillikehittäjä, Fullstackkehittäjä ja teknolog
 - 👨‍🎓 Olen Tietotekniikan opiskelija, pian valmistun.
 - 📖 Opin .NETiä ja TypeScriptiä.
 - 🔎 Etsin opinnäytetyön aihetta.
-- ⚡ voit lukea lisää uudesta blogistani (https://medium.com)
+- ⚡ Voit lukea lisää uudesta blogistani (https://medium.com)
 - 📝 Minun sivuni ()
 <br />
-
 
 **Työn alla:**
 - Project/Bug Tracker system
