@@ -21,7 +21,7 @@ Olen ohjelmistokehittäjä, mobillikehittäjä, Fullstackkehittäjä ja teknolog
 - Habit tracker
 <br />
 
-**Languages and Tools:**
+**Ohjelmointikielet ja Työkalut:**
 
 <code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/react.png"></code>
 <code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/php.png"></code>
