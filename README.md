@@ -23,13 +23,13 @@ Olen ohjelmistokehittäjä, mobillikehittäjä, Fullstackkehittäjä ja teknolog
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/react.png"></code>
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/php.png"></code>
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/java.png"></code>
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/python.png"></code>
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/swift.png"></code>
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/c-sharp.png"></code>
-<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/mysql.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/react.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/php.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/java.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/python.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/swift.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/c-sharp.png"></code>
+<code><img height="40" src="https://github.com/paczek07/paczek07/blob/main/assets/mysql.png"></code>
 <br />
 <br />
 <br />
