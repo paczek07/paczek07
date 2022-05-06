@@ -1,7 +1,9 @@
 ### Hej 👋 mää on [Aurelio!]()
+<br />
+<br />
+Olen ohjelmistokehittäjä, mobillikehittäjä, Fullstackkehittäjä ja teknologian harrastaja. Pidän myös uusien asioiden oppimisesta ja ongelmien ratkaisemisesta ✌️
 
-<br />
-<br />
+
 <img align="right" alt="GIF" src="https://github.com/paczek07/paczek07/blob/main/assets/giphy.gif" />
 
 Olen ohjelmistokehittäjä, mobillikehittäjä, Fullstackkehittäjä ja teknologian harrastaja. Pidän myös uusien asioiden oppimisesta ja ongelmien ratkaisemisesta ✌️
