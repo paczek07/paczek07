@@ -3,7 +3,7 @@
 Olen Ohjelmistokehittäjä, mobillikehittäjä ja teknologian harrastaja. Pidän myös uusien asioiden oppimisesta ja ongelmien ratkaisemisesta ✌️
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/paczek07/paczek07/blob/main/assets/giphy.gif" />
 
 
 **Enemmän minusta:**
