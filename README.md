@@ -1,4 +1,4 @@
-### Hej 👋 mää on Aurelio[Aurelio!]()
+### Hej 👋 mää on [Aurelio!]()
 
 Olen Ohjelmistokehittäjä, mobillikehittäjä ja teknologian harrastaja. Pidän myös uusien asioiden oppimisesta ja ongelmien ratkaisemisesta ✌️
 
@@ -13,14 +13,19 @@ Olen Ohjelmistokehittäjä, mobillikehittäjä ja teknologian harrastaja. Pidän
 - 🔎 Etsin opinnäytetyön aihetta.
 - ⚡ voit lukea lisää uudesta blogistani (https://medium.com)
 - 📝 Minun sivuni ()
-
+<br/ >
 
 **Languages and Tools:**
 
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/react.png"></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/php.png"></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/java.png"></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/python.png"></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/swift.png"></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/c-sharp.png"></code>
+<code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/mysql.png"></code>
+<br/ >
+<br/ >
+<br/ >
 
 ![paczek07's GitHub stats](https://github-readme-stats.vercel.app/api?username=paczek07&show_icons=true&hide_border=true)
