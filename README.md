@@ -13,7 +13,7 @@ Olen Ohjelmistokehittäjä, mobillikehittäjä ja teknologian harrastaja. Pidän
 - 🔎 Etsin opinnäytetyön aihetta.
 - ⚡ voit lukea lisää uudesta blogistani (https://medium.com)
 - 📝 Minun sivuni ()
-<br/ >
+<br />
 
 **Languages and Tools:**
 
@@ -24,8 +24,8 @@ Olen Ohjelmistokehittäjä, mobillikehittäjä ja teknologian harrastaja. Pidän
 <code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/swift.png"></code>
 <code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/c-sharp.png"></code>
 <code><img height="20" src="https://github.com/paczek07/paczek07/blob/main/assets/mysql.png"></code>
-<br/ >
-<br/ >
-<br/ >
+<br />
+<br />
+<br />
 
 ![paczek07's GitHub stats](https://github-readme-stats.vercel.app/api?username=paczek07&show_icons=true&hide_border=true)
